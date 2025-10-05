@@ -1,0 +1,7 @@
+# Normalizar finales de línea automáticamente
+* text=auto
+
+# Archivos de C# y Visual Studio
+*.cs diff=csharp
+*.sln text
+*.xaml text
